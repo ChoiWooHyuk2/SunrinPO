@@ -1,0 +1,2 @@
+C:\Users\Choi Woo Hyuk\Desktop\기본\cat's paw!\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Choi Woo Hyuk\Desktop\기본\cat's paw!\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
